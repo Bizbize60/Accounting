@@ -1,2 +1,3 @@
 # Accounting
-Computer Based Accounting Program , It is my first time taken program
+
+"It was the first program that really took up a lot of my time
